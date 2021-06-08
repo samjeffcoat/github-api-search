@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/samjeffcoat/github-api-search/issues"
   },
-  "homepage": "https://github.com/samjeffcoat/github-api-search#readme"
+  "homepage": "https://github.com/samjeffcoat/github-api-search#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ]
 }
